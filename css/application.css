@@ -1,0 +1,30 @@
+div#map {
+  width: 100%;
+  height: 100%;
+}
+
+button.btn-default {
+  background-color:#94B8FF;
+  font: arial;
+  color: white;
+  border: 1px solid #94B8FF
+}
+
+form.navbar-form {
+  width: 100%;
+  margin: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #FFA3A3;
+  text-align: center;
+}
+
+div.controller {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  height: 100vh;
+  width: 100vw;
+}
